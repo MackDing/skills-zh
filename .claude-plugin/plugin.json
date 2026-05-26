@@ -1,5 +1,6 @@
 {
-  "name": "mattpocock-skills",
+  "name": "mattpocock-skills-zh",
+  "description": "Matt Pocock engineering skills with a Chinese entrypoint. 英文原文保留，中文说明见 README.zh.md。",
   "skills": [
     "./skills/engineering/diagnose",
     "./skills/engineering/grill-with-docs",

@@ -8,6 +8,8 @@
   </a>
 </p>
 
+**中文说明：** [README.zh.md](README.zh.md). English original is preserved below.
+
 # Skills For Real Engineers
 
 [![skills.sh](https://skills.sh/b/mattpocock/skills)](https://skills.sh/mattpocock/skills)
